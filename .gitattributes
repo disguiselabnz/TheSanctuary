@@ -7,3 +7,4 @@
 *.avi* filter=lfs diff=lfs merge=lfs -text
 *.mov* filter=lfs diff=lfs merge=lfs -text
 *.fbx* filter=lfs diff=lfs merge=lfs -text
+*.st9* filter=lfs diff=lfs merge=lfs -text
